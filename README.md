@@ -18,3 +18,9 @@ Examples:
 - next UIButton: nextButton
 - title UILable: titleLabel
 
+
+
+
+Testing:
+
+https://dzone.com/articles/network-stubbing-options-for-xctest-and-xcuitest-i
