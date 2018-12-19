@@ -24,3 +24,5 @@ Examples:
 Testing:
 
 https://dzone.com/articles/network-stubbing-options-for-xctest-and-xcuitest-i
+
+https://www.bignerdranch.com/blog/mocking-with-protocols-in-swift/
